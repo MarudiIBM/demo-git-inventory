@@ -1,0 +1,15 @@
+{
+  "repository_url": "https://github.com/MarudiIBM/demo-repository.git",
+  "artifact": "ca.icr.io/demo-namespace/demo-repository",
+  "build_number": 1,
+  "commit_sha": "60585edbb06306cceb987620657856935cbfe806",
+  "name": "demo-repository",
+  "pipeline_run_id": "ef3c58e9-ce91-45be-87e8-eb6158dddc25",
+  "version": "v1",
+  "signature": "sha256:85e08bb2c84cc85ce241611bd4ef4bf5a4575e217704ae40d508c34294f18451",
+  "REGISTRY_URL": "ca.icr.io",
+  "REGISTRY_NAMESPACE": "demo-namespace",
+  "IMAGE_NAME": "demo-repository",
+  "IMAGE_TAGS": "1-main-60585edb-20230602180839",
+  "IMAGE_MANIFEST_SHA": "sha256:85e08bb2c84cc85ce241611bd4ef4bf5a4575e217704ae40d508c34294f18451"
+}
